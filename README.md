@@ -4,7 +4,7 @@
 
 Welcome to the Voting Application project! This application is designed to facilitate the voting process, with separate sections for administrators and users.
 
-## Features
+# Features
 
 ## Admin Section
 
