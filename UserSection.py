@@ -195,8 +195,8 @@ class Ui_MainWindow(object):
         self.pushButton.setText(_translate("MainWindow", "Submit Vote"))
 
 
-
-
+clea
+# main function
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
